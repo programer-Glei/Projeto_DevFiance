@@ -63,10 +63,25 @@ header{
 }
 
 .card.total{
-
+    background: #49aa26;
+    color: white;
 }
 
 /* Footer===========*/
 footer{
     text-align: center;
+}
+
+/* Tabela===========*/
+#data-table{
+    width: 100%;
+    border-spacing: 0 0.5rem;
+}
+
+table th{
+    background: white;
+}
+
+table td{
+    background: white;
 }
