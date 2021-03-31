@@ -21,6 +21,8 @@ body{
 h2{
     margin-top: 3.2rem;
     margin-bottom: 0.8rem;
+    color: #363f5f;
+    font-weight: normal;
 }
 
 /* Header ===========*/
@@ -41,6 +43,7 @@ header{
     color: #fff;
 }
 
+/* Cards===========*/
 .card{
     width: 100%;
     background: #fff;
