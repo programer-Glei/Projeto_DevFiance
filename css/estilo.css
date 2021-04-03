@@ -70,6 +70,14 @@ header{
     color: white;
 }
 
+/*Transaction */
+
+#transaction{
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+}
+
 /* Footer===========*/
 footer{
     text-align: center;
