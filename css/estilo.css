@@ -95,6 +95,20 @@ header{
     padding: 2.4rem;
 }
 
+.modal h2{
+    margin: 0;
+}
+
+.modal .input-group{
+    margin-top: 10px;
+}
+
+.modal .input-group input{
+    width: 100%;
+    padding: 10px 5px;
+    font-size: 15px;
+}
+
 /* Footer===========*/
 footer{
     text-align: center;
