@@ -109,6 +109,23 @@ header{
     font-size: 15px;
 }
 
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+button{
+    width: 50%;
+    height: 50px;
+}
+.save{
+    color: white;
+    background: #3dd705;
+    margin-left: 10px;
+}
+
 /* Footer===========*/
 footer{
     text-align: center;
