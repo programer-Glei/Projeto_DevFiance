@@ -88,6 +88,11 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    visibility: hidden;
+}
+
+.active{
+    visibility: visible;
 }
 
 .modal{
@@ -118,7 +123,9 @@ header{
 
 button{
     width: 50%;
-    height: 50px;
+    height: 65px;
+    font-size: 15px;
+    font-weight: bold;
 }
 .save{
     color: white;
